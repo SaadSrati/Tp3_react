@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SaadSrati.github.io/Tp3_react/static/css/main.1d466627.css",
+    "main.js": "/SaadSrati.github.io/Tp3_react/static/js/main.53d58cd4.js",
+    "static/js/787.3334f83a.chunk.js": "/SaadSrati.github.io/Tp3_react/static/js/787.3334f83a.chunk.js",
+    "index.html": "/SaadSrati.github.io/Tp3_react/index.html",
+    "main.1d466627.css.map": "/SaadSrati.github.io/Tp3_react/static/css/main.1d466627.css.map",
+    "main.53d58cd4.js.map": "/SaadSrati.github.io/Tp3_react/static/js/main.53d58cd4.js.map",
+    "787.3334f83a.chunk.js.map": "/SaadSrati.github.io/Tp3_react/static/js/787.3334f83a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d466627.css",
+    "static/js/main.53d58cd4.js"
+  ]
+}
